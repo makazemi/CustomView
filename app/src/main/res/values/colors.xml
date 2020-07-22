@@ -6,4 +6,11 @@
 
     <color name="colorBackground">#FFFF5500</color>
     <color name="colorPaint">#FFFFEB3B</color>
+
+    <color name="colorStartGradientGrey">#FFFFFF</color>
+    <color name="colorEndGradientGrey">#F3F5F6</color>
+
+
+<!--    <color name="colorStartGradientGrey">#E4C1CD</color>-->
+<!--    <color name="colorEndGradientGrey">#E91E63</color>-->
 </resources>
